@@ -43,6 +43,6 @@
 
 ## 👤 Author
 
-- [Your Name (GitHub ID)]
+- [VICTOR-JEON-1998]
 - 2025
 
